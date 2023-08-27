@@ -1,0 +1,23 @@
+/*BUSINESS CARD*/
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img {
+    width: 125px;
+}
+
+.card {
+    margin: 100px auto;
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: #2b2839;
+    background-color: #ddebf8;
+    border-bottom: 5px solid #d8cefe;
+}
+
+
